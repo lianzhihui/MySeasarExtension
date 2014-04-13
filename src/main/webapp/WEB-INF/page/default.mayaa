@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<m:mayaa xmlns:m="http://mayaa.seasar.org" xmlns:t="http://www.seasar.org/cubby/tags">
+
+	<m:beforeRender>
+	<![CDATA[	
+		
+	]]>
+	</m:beforeRender>
+
+</m:mayaa>
